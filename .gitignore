@@ -1,0 +1,8 @@
+﻿# WeChat mini program
+project.private.config.json
+*.log
+node_modules/
+.DS_Store
+
+# Cloud functions
+cloudfunctions/**/node_modules/
